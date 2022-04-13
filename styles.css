@@ -169,3 +169,7 @@ body {
     background-color: #04AA6D;
     color: white;
   }
+.container {
+    height: 150px;
+    background-color: grey;
+}
