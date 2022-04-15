@@ -19,12 +19,17 @@ body {
     min-height: 100vh;
 }
 
+.header {
+    background-color: cyan;
+    color: white;
+    text-align: center;
+}
 .footer {
     display: flex;
     flex-flow: row wrap;
     padding: 30px 30px 20px 30px;
     color: #2f2f2f;
-    background-color: #fff;
+    background-color: rgb(226, 226, 226);
     border-top: 1px solid #e5e5e5;
 }
 
@@ -169,7 +174,14 @@ body {
     background-color: #04AA6D;
     color: white;
   }
+
 .container {
     height: 150px;
     background-color: grey;
+}
+
+.sideimg {
+    height: 50px;
+    background-color: grey;
+    margin-top: 1vh;
 }
